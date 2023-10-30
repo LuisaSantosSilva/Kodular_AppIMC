@@ -15,6 +15,10 @@ O Projeto IMC feito no Kodular é uma aplicação simples em mobile feita para c
   <img width="200" src="https://github.com/LuisaSantosSilva/Kodular_AppIMC/blob/main/imagens/layout%20de%20tela.png">
 </div>
 
+<h4>Acesse o link abaixo para ver o Vídeo da aplicação:</h4>
+
+[![Vídeo](https://img.shields.io/badge/Vídeo_da_Aplicação-C71585?style=for-the-badge)](https://github.com/LuisaSantosSilva/Kodular_AppIMC/blob/main/imagens/Video%20da%20aplica%C3%A7%C3%A3o%20-%20Luisa%20Santos%20.mov)
+
 ##
 **Contatos:**
 
